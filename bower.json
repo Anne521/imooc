@@ -1,0 +1,26 @@
+{
+  "name": "imooc",
+  "description": "imooc movie",
+  "main": "app.js",
+  "authors": [
+    "anne"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "imooc"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0"
+  }
+}

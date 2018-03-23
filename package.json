@@ -1,0 +1,24 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "use(mongoose, jade, express...)to creat a movie web project ",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jade": "^1.11.0",
+    "moment": "^2.21.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.10",
+    "path": "^0.12.7",
+    "require": "^2.4.20",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anne",
+  "license": "ISC"
+}
